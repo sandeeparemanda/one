@@ -15,9 +15,7 @@ in concordia university
 
 
 </h1>
-<p style="color:green; font-size:20px;" align="center"> I am done with tomacat setup and deployment 
 
-<p>
 
 	
 
