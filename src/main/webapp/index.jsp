@@ -13,6 +13,8 @@
 i am studying masters/
 in concordia university
 
+i am going to complete my graduation in april
+
 
 </h1>
 
